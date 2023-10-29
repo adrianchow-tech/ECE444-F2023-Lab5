@@ -1,4 +1,5 @@
 # ECE444-F2023-Lab5
+Test function written for group project: https://github.com/ECE444-2023Fall/project-1-web-application-design-group20-commitcartel/blob/main/tests/app_test.py#L14-L26
 
 **Pros of TDD**
 1. TDD could allow for improved code quality. This is because TDD encourages developers to think about what they want the test results to be and how they can write their code to get the desired result. Additionally, because the developers are writing their tests first, they are forced to think about the different interfaces, expected behaviors, and the design of their code. This could lead to cleaner code in general
